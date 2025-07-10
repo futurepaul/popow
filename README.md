@@ -1,21 +1,3 @@
-# bun-react-tailwind-shadcn-template
+# powpow!
 
-To install dependencies:
-
-```bash
-bun install
-```
-
-To start a development server:
-
-```bash
-bun dev
-```
-
-To run for production:
-
-```bash
-bun start
-```
-
-This project was created using `bun init` in bun v1.2.18. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+> Prompt: "write and deploy a nostr client that shows notes with PoW, show how much PoW each note has and sort them by it" - share a link to the source code & the deployed client.
